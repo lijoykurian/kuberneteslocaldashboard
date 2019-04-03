@@ -1,7 +1,7 @@
 ## Kubernetes for Developers
 This is a companion repositiry for:\
 [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6519005084838359040)\
-[youtube](https://youtu.be/HaZ4qRU5iIc)\
+[youtube](https://youtu.be/HaZ4qRU5iIc)
 ### Useful Links
 
 ##### [Docker Install](https://www.docker.com/products/docker-desktop)
