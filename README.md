@@ -15,7 +15,7 @@ This repo has the following files:
 **helloworldservice.yaml**  - Yaml to create a service that is accessible on localhost
 
 
-#### Commands used
+### Commands used
 
 kubectl apply -f kubedashboard.yaml
 
