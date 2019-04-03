@@ -1,5 +1,5 @@
 ## Kubernetes for Developers
-This is a companion repositiry for:\
+This is a companion repositiry for the video available below:\
 [linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6519005084838359040)\
 [youtube](https://youtu.be/HaZ4qRU5iIc)
 ### Useful Links
